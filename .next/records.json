@@ -1,0 +1,51 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi node_modules/next/dist/client/next": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/runtime/main.js": 2,
+      "static\\GRK5mm4FmxmihZztlnPaG\\pages\\_app.js": 3,
+      "static\\GRK5mm4FmxmihZztlnPaG\\pages\\_error.js": 4,
+      "static\\GRK5mm4FmxmihZztlnPaG\\pages\\about.js": 5,
+      "static\\GRK5mm4FmxmihZztlnPaG\\pages\\index.js": 6,
+      "static\\BsijYcWcpJl1v7rb_gscY\\pages\\_app.js": 7,
+      "static\\BsijYcWcpJl1v7rb_gscY\\pages\\_error.js": 8,
+      "static\\BsijYcWcpJl1v7rb_gscY\\pages\\about.js": 9,
+      "static\\BsijYcWcpJl1v7rb_gscY\\pages\\index.js": 10,
+      "static\\TC7FBK8v_a4DyWBl5v0Fc\\pages\\_app.js": 3,
+      "static\\TC7FBK8v_a4DyWBl5v0Fc\\pages\\_error.js": 4,
+      "static\\TC7FBK8v_a4DyWBl5v0Fc\\pages\\about.js": 5,
+      "static\\TC7FBK8v_a4DyWBl5v0Fc\\pages\\index.js": 6,
+      "static\\~xkTMIBMh3l7ZU0fvVadU\\pages\\_app.js": 7,
+      "static\\~xkTMIBMh3l7ZU0fvVadU\\pages\\_error.js": 8,
+      "static\\~xkTMIBMh3l7ZU0fvVadU\\pages\\about.js": 9,
+      "static\\~xkTMIBMh3l7ZU0fvVadU\\pages\\index.js": 10,
+      "static\\N1d~yiZveiXMHINeftjAM\\pages\\_app.js": 3,
+      "static\\N1d~yiZveiXMHINeftjAM\\pages\\_error.js": 4,
+      "static\\N1d~yiZveiXMHINeftjAM\\pages\\about.js": 5,
+      "static\\N1d~yiZveiXMHINeftjAM\\pages\\index.js": 6,
+      "static\\35wuIcZuhLnPl_6t0ZLQk\\pages\\_app.js": 7,
+      "static\\35wuIcZuhLnPl_6t0ZLQk\\pages\\_error.js": 8,
+      "static\\35wuIcZuhLnPl_6t0ZLQk\\pages\\about.js": 9,
+      "static\\35wuIcZuhLnPl_6t0ZLQk\\pages\\index.js": 10
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      2,
+      7,
+      8,
+      9
+    ]
+  }
+}
